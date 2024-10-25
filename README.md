@@ -3,11 +3,11 @@
 SmartCare Hospital is a Django-based application built to provide comprehensive healthcare services through an easy-to-use REST API. With SmartCare, patients can create accounts, view doctor information, book online or offline appointments, and leave reviews for doctors and the hospital.
 
 ## Table of Contents
-### About the Project
-### Built With
-### Features
-### Getting Started
-### Usage
+- About the Project
+- Built With
+- Features
+- Getting Started
+- Usage
 
 ## About the Project
 SmartCare is designed to streamline patient interactions with hospital services. By leveraging the Django REST framework, we’ve built an API system to make healthcare information easily accessible. Patients can create accounts, book appointments, and leave reviews with ease.
