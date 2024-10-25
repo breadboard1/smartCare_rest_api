@@ -13,8 +13,6 @@ SmartCare Hospital is a Django-based application built to provide comprehensive 
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
   - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## About the Project
 
@@ -82,11 +80,3 @@ To get a local copy up and running, follow these steps.
 2. **Doctor Info**: View the list of available doctors and their details.
 3. **Appointments**: Book appointments either online or offline.
 4. **Reviews**: Leave reviews for doctors and the hospital.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
