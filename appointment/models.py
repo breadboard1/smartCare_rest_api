@@ -4,9 +4,9 @@ from doctor.models import Doctor, AvailableTime
 
 
 APPOINTMENT_STATUS=[
-    ('Completed', 'Completed'),
     ('Pending', 'Pending'),
     ('Running', 'Running'),
+    ('Completed', 'Completed'),
 ]
 
 APPOINTMENT_TYPES=[
